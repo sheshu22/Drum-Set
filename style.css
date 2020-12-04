@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #283149;
+    background-color: #6978a1;
   }
   
   h1 {
@@ -15,12 +15,15 @@ body {
     color: #DBEDF3;
     font-family: sans-serif;
   }
-  
-  .w {
-  
+
+  a{
+    font-family: "Arvo", cursive;
+      text-decoration: none;
+      color:#eeb9d1 ;
   }
   
   .a {
+
   
   }
   
@@ -32,15 +35,19 @@ body {
   
   }
   
+  .f {
+  
+  }
+  
+  .g {
+  
+  }
+  
+  .h {
+  
+  }
+  
   .j {
-  
-  }
-  
-  .k {
-  
-  }
-  
-  .l {
   
   }
   
@@ -69,7 +76,7 @@ body {
     font-family: 'Arvo', cursive;
     line-height: 2;
     font-weight: 900;
-    color: #DA0463;
+    color: #e63653;
     text-shadow: 3px 0 #DBEDF3;
     border-radius: 15px;
     display: inline-block;
