@@ -1,6 +1,11 @@
-document.querySelector("button").addEventListener("click",clickk);
+//document.querySelector("button").addEventListener("click",clickk);
 
-function clickk()
+let leng=document.querySelectorAll(".drum").length;
+for(let i=0;i<leng;i++)
 {
-    alert("a is clicked");
+    document.querySelectorAll(".drum")[i].addEventListener("click",clickk);
+    function clickk()
+    {
+        alert(" clicked");
+    }
 }
