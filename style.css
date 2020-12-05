@@ -67,6 +67,7 @@ body {
   
   .pressed {
     box-shadow: 0 3px 4px 0 #DBEDF3;
+    width: 200px;
     opacity: 0.5;
   }
   
@@ -92,3 +93,7 @@ body {
     background-color: white;
   }
   
+  button.hover {
+   
+    width: 250px;
+  }
