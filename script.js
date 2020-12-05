@@ -10,6 +10,7 @@ for (let i = 0; i < leng; i++) {
         btnPressed(click);
 
     });
+
 }
 
 document.addEventListener("keydown", function (event) {
